@@ -1,0 +1,15 @@
+{
+  "name": "embuscadaauroraboreal",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+heroku git:remote -a embuscadaauroraboreal
+git push heroku master
+heroku ps:scale web=1
+heroku open
